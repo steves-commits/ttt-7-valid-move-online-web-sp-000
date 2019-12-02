@@ -11,4 +11,6 @@ end
 
 def on_board?
   if num.between? (o, 8) == TRUE
-    returns 
+    returns TRUE
+  else
+    return
