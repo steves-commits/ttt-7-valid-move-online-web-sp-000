@@ -10,4 +10,4 @@ end
 end
 
 def on_board?
-  if num_between
+  if num.between 
