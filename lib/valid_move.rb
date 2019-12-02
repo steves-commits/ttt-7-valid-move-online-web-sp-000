@@ -8,3 +8,5 @@ if board[index] == " " || board[index] == "" || board[index] == NIL
 else
   returns TRUE
 end
+end
+
